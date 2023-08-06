@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>
+<head> 
     <title>Welcome to My Website</title>
 </head>
 <body>
